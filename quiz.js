@@ -143,4 +143,28 @@ var quiz = [
         "question": "fire Pearl é o nome da passiva do pearl",
         "answer": "red"
     },
+    {
+        "question": "Fuyuki é o avo do sora",
+        "answer": "green"
+    },
+    {
+        "question": "Gear third é a habilidade mais forte do jogo em termos de poder",
+        "answer": "green"
+    },
+    {
+        "question": "Genzo vende bandana de tritao, calsa de tritao, anel do mar e turbante do mar por 5000 berry cada",
+        "answer": "red"
+    },
+    {
+        "question": "Genzo vende bandana de tritao, calsa de tritao, anel do mar e turbante do mar por 5200 berry cada",
+        "answer": "green"
+    },
+    {
+        "question": "Ha 8 henchman no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "Ha uma prisioneira chamada tita no arlong park",
+        "answer": "red"
+    },
 ]
