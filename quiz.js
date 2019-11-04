@@ -103,6 +103,44 @@ var quiz = [
         "question": "Em regra, a quarta habilidade do personagem é desbloqueada no nivel 18",
         "answer": "red"
     },
-
-    
+    {
+        "question": "Em regra, a quarta habilidade do personagem é desbloqueada no nivel 20",
+        "answer": "green"
+    },
+    {
+        "question": "Em regra, a quinta habilidade do personagem é desbloqueada no nivel 30",
+        "answer": "green"
+    },
+    {
+        "question": "Em regra, emotes são desbloqueados no nivel 40",
+        "answer": "red"
+    },
+    {
+        "question": "Enquanto está em chamas, Pearl tem as seguintes habilidades- fire pearl shot, fire presente, fire pearl close and fire pearl daitokuten",
+        "answer": "red"
+    },
+    {
+        "question": "Espada dadao é um item recomendado para o nivel 10",
+        "answer": "red"
+    },
+    {
+        "question": "Existem 28 conquistas para completar no modo historia das missoes especias do east blue",
+        "answer": "green"
+    },
+    {
+        "question": "Existem 30 conquistas para completar no modo historia das missoes especiais",
+        "answer": "red"
+    },
+    {
+        "question": "Existem bronze berry, silver berry, gold berry e platinum berry",
+        "answer": "green"
+    },
+    {
+        "question": "Existem bronze berry, silver berry, gold berry e diamond berry",
+        "answer": "red"
+    },
+    {
+        "question": "fire Pearl é o nome da passiva do pearl",
+        "answer": "red"
+    },
 ]
