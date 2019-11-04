@@ -12,7 +12,7 @@ var quiz = [
         "answer": "red"
     },
     {
-        "question": "Anel da cruz é um item recomendado para o nível 50",
+        "question": "Anel da cruz é um item recomendado para o nivel 50",
         "answer": "red"
     },
     {
@@ -67,5 +67,42 @@ var quiz = [
         "question": "Daddy mcshooty é um inimigo em loguetown",
         "answer": "red"
     },
+    {
+        "question": "É obrigatorio derrotar o jango na missao do black cat no modo historia",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel cozinhar alguns alimentos na casa da nojiko",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel criar medalhas dinamicas de diamante por 50 moedas piratas no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "É possivel crair medalhas dinamicas de ouro por 15 moedas piratas no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel crair medalhas dinamicas de ouro por 20 moedas piratas no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "É possivel criar pocao media de exp, pocao grande de exp e pocao pequena de exp no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel fazer missoes diarias de tritao em cocoyasi village",
+        "answer": ""
+    },
+    {
+        "question": "É preciso completar com um time de especialistas para ganhar a conquista Arlong",
+        "answer": "red"
+    },
+    {
+        "question": "Em regra, a quarta habilidade do personagem é desbloqueada no nivel 18",
+        "answer": "red"
+    },
+
     
 ]
