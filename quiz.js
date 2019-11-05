@@ -12,7 +12,7 @@ var quiz = [
         "answer": "red"
     },
     {
-        "question": "Anel da cruz é um item recomendado para o nível 50",
+        "question": "Anel da cruz é um item recomendado para o nivel 50",
         "answer": "red"
     },
     {
@@ -67,5 +67,104 @@ var quiz = [
         "question": "Daddy mcshooty é um inimigo em loguetown",
         "answer": "red"
     },
-    
+    {
+        "question": "É obrigatorio derrotar o jango na missao do black cat no modo historia",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel cozinhar alguns alimentos na casa da nojiko",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel criar medalhas dinamicas de diamante por 50 moedas piratas no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "É possivel crair medalhas dinamicas de ouro por 15 moedas piratas no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel crair medalhas dinamicas de ouro por 20 moedas piratas no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "É possivel criar pocao media de exp, pocao grande de exp e pocao pequena de exp no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "É possivel fazer missoes diarias de tritao em cocoyasi village",
+        "answer": ""
+    },
+    {
+        "question": "É preciso completar com um time de especialistas para ganhar a conquista Arlong",
+        "answer": "red"
+    },
+    {
+        "question": "Em regra, a quarta habilidade do personagem é desbloqueada no nivel 18",
+        "answer": "red"
+    },
+    {
+        "question": "Em regra, a quarta habilidade do personagem é desbloqueada no nivel 20",
+        "answer": "green"
+    },
+    {
+        "question": "Em regra, a quinta habilidade do personagem é desbloqueada no nivel 30",
+        "answer": "green"
+    },
+    {
+        "question": "Em regra, emotes são desbloqueados no nivel 40",
+        "answer": "red"
+    },
+    {
+        "question": "Enquanto está em chamas, Pearl tem as seguintes habilidades- fire pearl shot, fire presente, fire pearl close and fire pearl daitokuten",
+        "answer": "red"
+    },
+    {
+        "question": "Espada dadao é um item recomendado para o nivel 10",
+        "answer": "red"
+    },
+    {
+        "question": "Existem 28 conquistas para completar no modo historia das missoes especias do east blue",
+        "answer": "green"
+    },
+    {
+        "question": "Existem 30 conquistas para completar no modo historia das missoes especiais",
+        "answer": "red"
+    },
+    {
+        "question": "Existem bronze berry, silver berry, gold berry e platinum berry",
+        "answer": "green"
+    },
+    {
+        "question": "Existem bronze berry, silver berry, gold berry e diamond berry",
+        "answer": "red"
+    },
+    {
+        "question": "fire Pearl é o nome da passiva do pearl",
+        "answer": "red"
+    },
+    {
+        "question": "Fuyuki é o avo do sora",
+        "answer": "green"
+    },
+    {
+        "question": "Gear third é a habilidade mais forte do jogo em termos de poder",
+        "answer": "green"
+    },
+    {
+        "question": "Genzo vende bandana de tritao, calsa de tritao, anel do mar e turbante do mar por 5000 berry cada",
+        "answer": "red"
+    },
+    {
+        "question": "Genzo vende bandana de tritao, calsa de tritao, anel do mar e turbante do mar por 5200 berry cada",
+        "answer": "green"
+    },
+    {
+        "question": "Ha 8 henchman no mercado negro",
+        "answer": "green"
+    },
+    {
+        "question": "Ha uma prisioneira chamada tita no arlong park",
+        "answer": "red"
+    },
 ]
