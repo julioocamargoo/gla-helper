@@ -32,9 +32,11 @@ function createWindow () {
     mainWindow = null
   })
 
+  // Stay always on top
   mainWindow.setAlwaysOnTop(true, "floating", 1);
-  mainWindow.removeMenu(null);
 
+  // Stay on top even on fullscreen window
+  mainWindow.setVisibleOnAllWorkspaces(true);
 }
 
 // This method will be called when Electron has finished

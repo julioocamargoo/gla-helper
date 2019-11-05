@@ -1,22 +1,23 @@
 {
-  "name": "electron-quick-start",
+  "productName": "Grandline Adventures Friend",
+  "name": "grandline-adventures-friend",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A Grandline Adventure Helper Application",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "npm run build:win32 && npm run build:linux",
+    "build:win32": "electron-packager ./ --platform=win32 --arch=x64 --asar --prune=true --icon=./glaclient --out=build/win32 --ignore=\"(build|node_modules)\" --overwrite",
+    "build:linux": "electron-packager ./ --platform=linux --arch=x64 --asar --prune=true --icon=./glaclient --out=build/linux --ignore=\"(build|node_modules)\" --overwrite"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/julioocamargoo/gla-helper",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Grandline Adventures"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Julio Camargo",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^7.0.0"
+    "electron": "^7.0.0",
+    "electron-packager": "^14.1.0"
   }
 }
