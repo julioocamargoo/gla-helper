@@ -93,7 +93,7 @@ var quiz = [
     },
     {
         "question": "É possivel fazer missoes diarias de tritao em cocoyasi village",
-        "answer": ""
+        "answer": "red"
     },
     {
         "question": "É preciso completar com um time de especialistas para ganhar a conquista Arlong",
@@ -166,5 +166,261 @@ var quiz = [
     {
         "question": "Ha uma prisioneira chamada tita no arlong park",
         "answer": "red"
+    },
+    {
+        "question": "Henry needle, henry blazer, henry stripe e henry ford são nomes de algumas habilidades do niji",
+        "answer": "red"
+    },
+    {
+        "question": "Hideka é a avó do sora",
+        "answer": "red"
+    },
+    {
+        "question": "Island of rare animals é recomendada para jogadores do level 38 a 50 no minimapa do jogo",
+        "answer": "red"
+    },
+    {
+        "question": "Jose, discipulo de carmem, está na biblioteca em loguetown",
+        "answer": "green"
+    },
+    {
+        "question": "Kumo island é a unica ilha sem uma instancia do black market por perto",
+        "answer": "green"
+    },
+    {
+        "question": "Kumo island é recomendada para jogadores do level 64 a 72 no minimap do jogo",
+        "answer": "green"
+    },
+    {
+        "question": "Kumo island é recomendada para jogadores do level 64 a 70 no minimap do game",
+        "answer": "red"
+    },
+    {
+        "question": "Kuro causa 25% a mais de dano quando ataca inimigos pelas costas",
+        "answer": "rd"
+    },
+    {
+        "question": "Lamina escondida é um item que pode ser usado por todas as classes",
+        "answer": "red"
+    },
+    {
+        "question": "Leo, discipulo de carmen, está na biblioteca de loguetown",
+        "answer": "red"
+    },
+    {
+        "question": "Loguetown é recomendada para jogadores do level 56 a 70 no minimapa do jogo",
+        "answer": "red"
+    },
+    {
+        "question": "Luffy tem as classes bruiser, lutador e tank",
+        "answer": "red"
+    },
+    {
+        "question": "Mes é a habilidade mais forte do jogo em termos de poder",
+        "answer": "red"
+    },
+    {
+        "question": "Mohji perde energia enquanto esta em batalha",
+        "answer": "green"
+    },
+    {
+        "question": "Monkey d. luffy nao pode quebrar paredes com a habilidade gomu gomu no ono",
+        "answer": "green"
+    },
+    {
+        "question": "Monkey d. luffy pode quebrar paredes com a habilidade gomu gomu no ono",
+        "answer": "red"
+    },
+    {
+        "question": "Nami pode criar somente 3 nuvens simultaneamente",
+        "answer": "red"
+    },
+    {
+        "question": "Nao é possivel entrar na mansao da kaya",
+        "answer": "red"
+    },
+    {
+        "question": "Nao ha um marine announcer em conomi island",
+        "answer": "red"
+    },
+    {
+        "question": "Nico robin nao pode construir pontes com a habilidade delphinium",
+        "answer": "red"
+    },
+    {
+        "question": "Nico robin pode construir pontes com a habilidade delphinium",
+        "answer": "green"
+    },
+    {
+        "question": "No tutorial do jogo, o npc que passa instruçoes para voce é o woop slap, o prefeito de foosha village",
+        "answer": "red"
+    },
+    {
+        "question": "NPC sora em samui island é uma menina",
+        "answer": "red"
+    },
+    {
+        "question": "O kit de reparo 1.0 restura 400 pontos de vida do seu navio por segundo",
+        "answer": "green"
+    },
+    {
+        "question": "O kit de reparo 1.0  restaura 450 pontos de vida do seu navio por segundo",
+        "answer": "red"
+    },
+    {
+        "question": "Smoker é o Apelido de um dos criadores desse programa!",
+        "answer": "green"
+    },
+    {
+        "question": "O kit de reparo 3.0 restaura 30.000 pontos de vida do seu navio em 30 segundos",
+        "answer": "red"
+    },
+    {
+        "question": "O pvp na grand line sera opcional",
+        "answer": "red"
+    },
+    {
+        "question": "Orange town é recomendada para jogadores do level 20 a 30 no minimap do jogo",
+        "answer": "red"
+    },
+    {
+        "question": "Orange town é recomendada para jogadores do level 23 a 30 no minimap do jogo",
+        "answer": "green"
+    },
+    {
+        "question": "Para melhorar um personagem de 1 para 5 estrelas voce precisa usar 840 medalhas no total",
+        "answer": "green"
+    },
+    {
+        "question": "Pearl é o primeiro boss na missão da armada pirata",
+        "answer": "green"
+    },
+    {
+        "question": "Personagens diamante são 7% mais fortes que personagens ouro",
+        "answer": "green"
+    },
+    {
+        "question": "Picareta de mineracao é um item para cortantes e tanques",
+        "answer": "red"
+    },
+    {
+        "question": "Piiman, um dos pirtas do usopp, da algumas missoes em syup village",
+        "answer": "red"
+    },
+    {
+        "question": "Portgas d. ace é um personagem diamante",
+        "answer": "green"
+    },
+    {
+        "question": "Quando Sanji cura uma mulher, ele fica motivado e recebe bonus de velocidade e ataque por 10 segundos",
+        "answer": "red"
+    },
+    {
+        "question": "Samui island é recomendada para jogadores do level 20 a 28 no minimapa do jogo",
+        "answer": "green"
+    },
+    {
+        "question": "San zen se kai é a habilidade mais forte do jogo em termos de poder",
+        "answer": "red"
+    },
+    {
+        "question": "Sapi é o npc que vende atum em loguetown",
+        "answer": "green"
+    },
+    {
+        "question": "Shanks imobiliza inimigos em volta dele com a habilidade de kenbushoku haki waves",
+        "answer": "red"
+    },
+    {
+        "question": "Shanks mata inimigos fracos instataneamente com a habilidade kenbushoku haki",
+        "answer": "red"
+    },
+    {
+        "question": "Skins de navio estao disponiveis somente para navios de nivel dois ou maior",
+        "answer": "green"
+    },
+    {
+        "question": "Snowflakes é o nome do animal de estimaçao do sora",
+        "answer": "red"
+    },
+    {
+        "question": "Spider e giant spider sao os unicos inimigos em kumo island",
+        "answer": "red"
+    },
+    {
+        "question": "Trafalgar law nao pode usar nenhuma habilidade quando esta fora do room",
+        "answer": "red"
+    },
+    {
+        "question": "Trafalgar law pode quebrar parades com a habilidade ijection shot",
+        "answer": "green"
+    },
+    {
+        "question": "Uroge pode usar a habilidade pray para curar aliados e tambem remover condiçoes de lentidao ou queimadura",
+        "answer": "green"
+    },
+    {
+        "question": "Voce pode comprar duas abas extras do stash a primeira custa 150000 berry e a segunda 200000 berry",
+        "answer": "red"
+    },
+    {
+        "question": "Voce pode construir uma caixa de musica no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "Voce pode construir uma caixa de musica por 200 moedas piratas no mercado negro",
+        "answer": "red"
+    },
+    {
+        "question": "Voce pode encontrar 8 instancias do mercado negro no east blue",
+        "answer": "red"
+    },
+    {
+        "question": "Voce pode usar a mesa de construçao  nas docas para transformar 5 poçoes medias de experiencia em 1 poçao grande de experiencia",
+        "answer": "red"
+    },
+    {
+        "question": "Voce precisa alimentar um prisioneiro na quest da ririka",
+        "answer": ""
+    },
+    {
+        "question": "Voce precisa vencer com um time de atiradores para competar a conquista dos piratas buggy",
+        "answer": "red"
+    },
+    {
+        "question": "Voce precisa vencer com time de especialistas para completar a conquista dos piratas da alvida",
+        "answer": "red"
+    },
+    {
+        "question": "Voce precisa vencer com um time de lutadores para completar a conquista dos piratas do buggy",
+        "answer": "green"
+    },
+    {
+        "question": "Voce precisa vencer com um time de usuarios de fruta do diabo para completar a conquista da base da marinha",
+        "answer": "green"
+    },
+    {
+        "question": "Voce precisa vencer com uma equipe de homens para completar a conquista da armada pirata",
+        "answer": "red"
+    },
+    {
+        "question": "Voce precisa vencer com uma equipe de mulheres para completar a conquista da armada pirata",
+        "answer": "green"
+    },
+    {
+        "question": "Voce so pode trocar seus equipamentos em uma zona segura",
+        "answer": "red"
+    },
+    {
+        "question": "Whale shark é considerado um monstro nivel 3",
+        "answer": "green"
+    },
+    {
+        "question": "Uchimizu é uma habilidade que pode ser usada por jinbe,chew e Arlong",
+        "answer": "red"
+    },
+    {
+        "question": "",
+        "answer": ""
     },
 ]
