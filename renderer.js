@@ -4,19 +4,25 @@
 // `nodeIntegration` is turned off. Use `preload.js` to
 // selectively enable features needed in the rendering
 // process.
+let timeout = null;
+
+function search() { 
+    clearTimeout(timeout);
+    timeout = setTimeout(filterQuestions, 250);
+  }
+
 function filterQuestions() {
-    const searchValue = document.querySelector('#search').value || '';
+    const searchValue = document.getElementById('search').value || null;
 
-    const filteredQuestions = quiz.filter((questionObj) => {
-        return questionObj.question.toLowerCase().includes(searchValue.toLowerCase());
-    });
+    const filteredQuestions = searchValue ? quiz.filter((questionObj) => {
+        return questionObj.question.includes(searchValue.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ""));
+    }) : quiz;
 
-    const filteredField = document.querySelector('#filteredQuestions');
+    const filteredField = document.getElementById('filteredQuestions');
 
     filteredField.innerHTML = '';
 
-    filteredQuestions.forEach((q) => {
-        console.log(q);
+    filteredQuestions.slice(0, 3).forEach((q) => {
         filteredField.innerHTML = filteredField.innerHTML + `<div style="clear: both;">
         <div style="float:left; margin-right: 5px; width: 30px; height: 30px; background-color: ${q.answer};"></div>
         <span style="font-size: 20px; font-weight: 700;">${q.question}</span>
