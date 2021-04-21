@@ -1817,7 +1817,7 @@ var quiz = [
   },
   {
     "answer": "red",
-    "question": "Damaro Black, Manjaro, Chocolat, Drip, Turco, Cocoa, MountMOUNTAIN e Nora Gitsune são os nomes greens da falsa tripulação dos chapeus de palha."
+    "question": "Damaro Black, Manjaro, Chocolat, Drip, Turco, Cocoa, MountMOUNTAIN e Nora Gitsune são os nomes verdadeiros da falsa tripulação dos chapeus de palha."
   },
   {
     "answer": "green",
@@ -1825,15 +1825,15 @@ var quiz = [
   },
   {
     "answer": "green",
-    "question": "Demaro Black, capitão dos reds Chapéu de Palha, nasceu no East Blue."
+    "question": "Demaro Black, capitão dos Falsos Chapéu de Palha, nasceu no East Blue."
   },
   {
     "answer": "red",
-    "question": "Demaro Black, capitão dos reds Chapéu de Palha, nasceu no West Blue."
+    "question": "Demaro Black, capitão dos Falsos Chapéu de Palha, nasceu no West Blue."
   },
   {
     "answer": "green",
-    "question": "Demaro Black, Manjaro, Chocolat, Drip, Turco, Cocoa, Mountblutain e Nora Gitsune são os nomes greens da falsa tripulação dos chapéus de palha."
+    "question": "Demaro Black, Manjaro, Chocolat, Drip, Turco, Cocoa, Mountblutain e Nora Gitsune são os nomes verdadeiros da falsa tripulação dos chapéus de palha."
   },
   {
     "answer": "red",
@@ -2617,7 +2617,7 @@ var quiz = [
   },
   {
     "answer": "red",
-    "question": "Monkey D. Garp é o green pai de Luffy."
+    "question": "Monkey D. Garp é o verdadeiro pai de Luffy."
   },
   {
     "answer": "green",
@@ -2809,55 +2809,55 @@ var quiz = [
   },
   {
     "answer": "red",
-    "question": "O nome green da Baby Five é Babi."
+    "question": "O nome verdadeiro da Baby Five é Babi."
   },
   {
     "answer": "red",
-    "question": "O nome green da Miss Goldenweek é Drophy."
+    "question": "O nome verdadeiro da Miss Goldenweek é Drophy."
   },
   {
     "answer": "green",
-    "question": "O nome green da Miss Goldenweek é Marianne."
+    "question": "O nome verdadeiro da Miss Goldenweek é Marianne."
   },
   {
     "answer": "green",
-    "question": "O nome green da Miss Merrychristmas é Drophy."
+    "question": "O nome verdadeiro da Miss Merrychristmas é Drophy."
   },
   {
     "answer": "red",
-    "question": "O nome green da Miss MerryChristmas é Marianne."
+    "question": "O nome verdadeiro da Miss MerryChristmas é Marianne."
   },
   {
     "answer": "green",
-    "question": "O nome green do Barba Marrom é Chadros Higelyges."
+    "question": "O nome verdadeiro do Barba Marrom é Chadros Higelyges."
   },
   {
     "answer": "green",
-    "question": "O nome green do Hatchan é Hatchan."
+    "question": "O nome verdadeiro do Hatchan é Hatchan."
   },
   {
     "answer": "red",
-    "question": "O nome green do Hatchan é Hatchi."
+    "question": "O nome verdadeiro do Hatchan é Hatchi."
   },
   {
     "answer": "green",
-    "question": "O nome green do Mr 4 é Babe, provavelmente em referência ao famoso jogador de basebol Babe Ruth."
+    "question": "O nome verdadeiro do Mr 4 é Babe, provavelmente em referência ao famoso jogador de basebol Babe Ruth."
   },
   {
     "answer": "red",
-    "question": "O nome green do Mr 4 é Derek, provavelmente em referência ao famoso jogador de basebol Derek Jeter."
+    "question": "O nome verdadeiro do Mr 4 é Derek, provavelmente em referência ao famoso jogador de basebol Derek Jeter."
   },
   {
     "answer": "green",
-    "question": "O nome green do Mr 5 é Gem."
+    "question": "O nome verdadeiro do Mr 5 é Gem."
   },
   {
     "answer": "red",
-    "question": "O nome green do Mr 5 é Rem."
+    "question": "O nome verdadeiro do Mr 5 é Rem."
   },
   {
     "answer": "red",
-    "question": "O nome green do Trebol é John Trebol."
+    "question": "O nome verdadeiro do Trebol é John Trebol."
   },
   {
     "answer": "green",
@@ -2889,27 +2889,27 @@ var quiz = [
   },
   {
     "answer": "red",
-    "question": "O green nome da Miss Doublefinger é Paula."
+    "question": "O verdadeiro nome da Miss Doublefinger é Paula."
   },
   {
     "answer": "green",
-    "question": "O green nome da Miss Doublefinger é Zala."
+    "question": "O verdadeiro nome da Miss Doublefinger é Zala."
   },
   {
     "answer": "red",
-    "question": "O green nome do Mr 3 é Baldino."
+    "question": "O verdadeiro nome do Mr 3 é Baldino."
   },
   {
     "answer": "green",
-    "question": "O green nome do Mr 1 é Daz Bones."
+    "question": "O verdadeiro nome do Mr 1 é Daz Bones."
   },
   {
     "answer": "green",
-    "question": "O green nome do Mr 2 é Bon Clay Bentham."
+    "question": "O verdadeiro nome do Mr 2 é Bon Clay Bentham."
   },
   {
     "answer": "green",
-    "question": "O green nome do Mr 3 é Galdinho."
+    "question": "O verdadeiro nome do Mr 3 é Galdinho."
   },
   {
     "answer": "red",
