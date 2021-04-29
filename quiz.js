@@ -3437,6 +3437,18 @@ var quiz = [
   },
   {
     "answer": "green",
+    "question": "A recompensa do Daz Bones é de 75000000 de berry."
+  },
+  {
+    "answer": "red",
+    "question": "[GLA] A habilidade Motivation aumenta a velocidade do Luffy por 4 segundos e concede bônus de força no próximo ataque."
+  },
+  {
+    "answer": "red",
+    "question": "Boa Hancock nasceu no North Blue."
+  },
+  {
+    "answer": "green",
     "question": "Zeus é um personagem de One Pece."
   },
   {
