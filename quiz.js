@@ -125,7 +125,7 @@ var quiz = [
   },
   {
     "answer": "red",
-    "question": "[GLA] Daddy MCShooty é um inimigo em Loguetown."
+    "question": "[GLA] Billy MCShooty é um inimigo em Orange Town."
   },
   {
     "answer": "green",
@@ -1602,10 +1602,6 @@ var quiz = [
   {
     "answer": "green",
     "question": "Boa Hancock é a capitã das Piratas Kuja e a única mulher membro dos Shichibukai."
-  },
-  {
-    "answer": "red",
-    "question": "Boa Hancock nasceu no North Blue."
   },
   {
     "answer": "red",
