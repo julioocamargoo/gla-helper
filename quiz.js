@@ -4,6 +4,10 @@ var quiz = [
     "question": "[GLA] A habilidade de nível 100 do Arlong, Shark on Tank, imobiliza o inimigo."
   },
   {
+    "answer": "green",
+    "question": "doc q e o medico dos piratas do barba negra."
+  },
+  {
     "answer": "red",
     "question": "[GLA] A habilidade Liberation, do Marshall D. Teach, tem dois segundos de tempo de recarga e 10 de poder."
   },
