@@ -3068,6 +3068,10 @@ var quiz = [
     "question": "Ryuma tinha a sombra de um lendário samurai de Wano."
   },
   {
+    "answer": "red",
+    "question": "Hody Jones é o capitão dos piratas homens-peixe."
+  },
+  {
     "answer": "green",
     "question": "Rob Lucci enfrentou Sabo depois do Timeskip."
   },
