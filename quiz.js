@@ -3462,6 +3462,10 @@ var quiz = [
   {
     "answer": "green",
     "question": "Zephyr é um personagem non-canon."
+  },
+  {
+    "answer": "green",
+    "question": "Houve um Crossover entre One Piece e Dragon Ball Z no anime."
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
