@@ -3466,6 +3466,10 @@ var quiz = [
   {
     "answer": "green",
     "question": "Houve um Crossover entre One Piece e Dragon Ball Z no anime."
+  }, 
+  {
+    "answer": "green",
+    "question": "Vista Nasceu na Grand Line"
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
