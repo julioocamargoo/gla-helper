@@ -3469,7 +3469,15 @@ var quiz = [
   }, 
   {
     "answer": "green",
-    "question": "Vista Nasceu na Grand Line"
+    "question": "Vista Nasceu na Grand Line."
+  }, 
+  {
+    "answer": "green",
+    "question": "A Recompensa do Mr.4 é de 3.200.000 de Berry."
+  }, 
+  {
+    "answer": "red",
+    "question": "Shiryu é o capitão da terceira frota do Teach"
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
