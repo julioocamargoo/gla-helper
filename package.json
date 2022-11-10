@@ -17,7 +17,7 @@
   "author": "Julio Camargo",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "^18.3.7",
     "electron-packager": "^14.1.0"
   }
 }
