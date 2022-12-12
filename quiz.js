@@ -3478,6 +3478,14 @@ var quiz = [
   {
     "answer": "red",
     "question": "Shiryu é o capitão da terceira frota do Teach"
+  },
+  {
+    "answer": "red",
+    "question": "[GLA] Kiribachi é um item que pode ser usado por todas as classes, exceto especialista."
+  },
+  {
+    "answer": "green",
+    "question": "Mr. 2 tem o mesmo dublador do Franky e do Jango."
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
