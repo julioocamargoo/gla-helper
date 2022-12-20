@@ -3486,6 +3486,10 @@ var quiz = [
   {
     "answer": "green",
     "question": "Mr. 2 tem o mesmo dublador do Franky e do Jango."
+  },
+  {
+    "answer": "green",
+    "question": "O Exército Revolucionário foi fundado em algum momento entre a morte do Roger e o nascimento do Luffy."
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
