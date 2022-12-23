@@ -3490,6 +3490,14 @@ var quiz = [
   {
     "answer": "green",
     "question": "O Exército Revolucionário foi fundado em algum momento entre a morte do Roger e o nascimento do Luffy."
+  },
+  {
+    "answer": "red",
+    "question": "[GLA] Daddy McShooty é um inimigo em Loguetown."
+  },
+  {
+    "answer": "red",
+    "question": "Cada um dos principais membros da tripulação do Shanks são do mesmo oceano."
   }
 ].map(q => {
   return { answer: q.answer, question: q.question.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "") }
