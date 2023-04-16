@@ -1333,7 +1333,7 @@ var quiz = [
   },
   {
     "answer": "green",
-    "question": "Aisa nasceu com Haki da Observação avançado."
+    "question": "Aisa nasceu com um Haki da Observação avançado."
   },
   {
     "answer": "red",
